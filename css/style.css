@@ -30,7 +30,7 @@ body{
     background-color: crimson;
   }
   .nav-wrapper::after{
-    background-color: rgb(31, 30, 30);
+    background-color: #485563 ;
   }
   
   .nav-wrapper nav{
